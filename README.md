@@ -3,6 +3,8 @@
 
 En reconversion à l'école 42 après une carrière riche et variée, notamment en tant que développeuse web jusqu'en 2013, je recherche une entreprise pour mettre en pratique et approfondir les compétences techniques acquises à 42, tout en apportant une perspective unique grâce à mon expérience professionnelle diversifiée.
 
+# Stack
+[![Technologies](https://skillicons.dev/icons?i=c,cpp,python,django,js,docker,nginx&theme=light)](https://skillicons.dev)
 <!--
 **selenthomas/selenthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
