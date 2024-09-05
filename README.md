@@ -1,5 +1,5 @@
-# SELEN THOMAS
-## Software Developer | 42 Paris
+### SELEN THOMAS
+# Software Developer | 42 Paris
 
 En reconversion à l'école 42 après une carrière riche et variée, notamment en tant que développeuse web jusqu'en 2013, je recherche un stage pour mettre en pratique et approfondir les compétences techniques acquises à 42, tout en apportant une perspective unique grâce à mon expérience professionnelle diversifiée.
 
