@@ -1,7 +1,7 @@
 ### SELEN THOMAS
-# Software Developer | 42 Paris
+# Software Engineer | 42 Paris
 
-En reconversion à l'école 42 après une carrière riche et variée, notamment en tant que développeuse web jusqu'en 2013, je recherche une entreprise pour mettre en pratique et approfondir les compétences techniques acquises à 42, tout en apportant une perspective unique grâce à mon expérience professionnelle diversifiée.
+Software Engineer avec un fort intérêt pour la spécialisation en DevOps, actuellement en train de développer des compétences sur des outils tels que Docker, Kubernetes, et GitHub Actions. Je souhaite rejoindre une équipe où je pourrai mettre en pratique et approfondir mes compétences techniques tout en apportant une perspective enrichie par mon expérience professionnelle diversifiée.
 
 # Stack
 [![Technologies](https://skillicons.dev/icons?i=c,cpp,python,django,js,docker,nginx&theme=light)](https://skillicons.dev)
