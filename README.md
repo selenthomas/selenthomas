@@ -1,10 +1,5 @@
 ### SELEN THOMAS
 # Software Engineer | 42 Paris
-
-Software Engineer avec un fort intérêt pour la spécialisation en DevOps, actuellement en train de développer des compétences sur des outils tels que Docker, Kubernetes, et GitHub Actions. Je souhaite rejoindre une équipe où je pourrai mettre en pratique et approfondir mes compétences techniques tout en apportant une perspective enrichie par mon expérience professionnelle diversifiée.
-
-# Stack
-[![Technologies](https://skillicons.dev/icons?i=c,cpp,python,django,js,docker,nginx&theme=light)](https://skillicons.dev)
 <!--
 **selenthomas/selenthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
