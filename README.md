@@ -1,5 +1,5 @@
 ### SELEN THOMAS
-# Software Engineer | 42 Paris
+# Software Engineer
 <!--
 **selenthomas/selenthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
